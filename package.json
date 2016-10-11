@@ -1,0 +1,19 @@
+{
+  "name": "functional-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaukalak/functional-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaukalak/functional-one/issues"
+  },
+  "homepage": "https://github.com/vaukalak/functional-one#readme"
+}
